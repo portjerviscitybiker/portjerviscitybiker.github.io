@@ -1,0 +1,212 @@
+*{
+  font-family: times;
+  -webkit-font-smoothing: antialiased;
+}
+
+.dabigdiv{
+  margin: 0 auto;
+}
+
+.firstarea{
+text-align: right;
+border: solid RGB(244, 245,247) 20px;
+background-color: RGB(244, 245,247);
+outline: #d3d3d3 2px solid;
+position: absolute;
+top: 0px;
+right: 237px;
+width: 350px;
+height: 25px;
+}
+
+.search-listings form input{
+position: relative;
+right: 55px;
+height: 40px;
+width: 290px;
+bottom: 12px;
+font-size: 18px
+}
+
+.go-button button {
+height: 42px;
+width: 47px;
+position: relative;
+bottom: 57px;
+left: 9px;
+background-color: green;
+color: white;
+font-size: 20px;
+}
+
+
+
+/* tabs */
+
+
+
+ul {
+ 
+ padding: 0;
+ list-style: none;
+ display: inline;
+font-family: times;
+font-size: 23px;
+ }
+
+ li a{
+ 	display: inline;
+ 	position:relative;
+ 	text-decoration: none;
+ 	vertical-align: sub;
+ 	text-align: center;
+ 	line-height: 10px;
+ 	}
+
+ .tabs li{
+ 	 height: 40px;
+  	 width: 90px;
+  	 float: left;
+  	 border: 14px solid black;
+  	 margin-right: 10px;
+  	 border-width: 1px;
+  	 position: relative;
+ }
+
+ .tabs li a{
+ 	position: absolute;
+ 	top: 15px;
+ 	right: 0;
+ 	left: 0;
+ 	-webkit-font-smoothing: antialiased;
+ }
+
+ .tab1{
+ 	background-color: black;
+ }
+
+ .tab1 a{
+ 	color: white;
+ 	/* background-color: black; */
+ 	/* position: relative; */
+ 	}
+
+ .tab2 a {
+  	color: black;
+  	 }
+
+.tab2 {
+	background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f4f4f4+0,d9e3db+100 */
+background: rgb(244,244,244); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(244,244,244,1) 0%, rgba(217,227,219,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(244,244,244,1) 0%,rgba(217,227,219,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(244,244,244,1) 0%,rgba(217,227,219,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f4f4', endColorstr='#d9e3db',GradientType=0 ); /* IE6-9 */
+}
+
+.tab3 a {
+ 	color: black;
+  	}
+ 
+ .tab3{
+ 	background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f4f4f4+0,d9e3db+100 */
+background: rgb(244,244,244); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(244,244,244,1) 0%, rgba(217,227,219,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(244,244,244,1) 0%,rgba(217,227,219,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(244,244,244,1) 0%,rgba(217,227,219,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f4f4', endColorstr='#d9e3db',GradientType=0 ); /* IE6-9 */;
+ }
+
+
+
+ .tab4 a {
+  	color: black;
+   	}
+
+ .tab4{
+ 	background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f4f4f4+0,d9e3db+100 */
+background: rgb(244,244,244); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(244,244,244,1) 0%, rgba(217,227,219,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(244,244,244,1) 0%,rgba(217,227,219,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(244,244,244,1) 0%,rgba(217,227,219,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f4f4', endColorstr='#d9e3db',GradientType=0 ); /* IE6-9 */;
+ }	
+
+ .hr{
+ 	position: absolute;
+ 	width: 1809px;
+  height: 9px;
+  color:black;
+  background-color: black;
+  top: 185px;
+   }
+
+   /* banner */
+
+   .banner{
+    width: 1700px;
+   }
+
+   /* 1st column */
+
+
+ .column1 {
+ display: inline;
+ position: relative;
+ top: 20px;
+ }
+
+.texta {
+font-size: 30px;
+}
+
+.textb{
+  font-size: 30px;
+}
+
+.textc{
+  font-size: 30px;
+}
+
+ 
+/* 2nd column */
+
+.column2 {
+ display: inline; 
+position: relative;
+left: 625px;
+bottom: 425px;
+width: 50px;
+}
+
+/* 3rd column */
+
+.column3 {
+  display: inline;
+  position: relative;
+  left: 1250px;
+  bottom: 905px;
+}
+
+.column3c-form1{
+height: 10px;
+
+}
+
+
+
+.lastbutton button{
+  background-color: green;
+color: white;
+}
+
+
+.footer{
+  position: relative;
+  left: 50px;
+  bottom: 600px;
+  border: solid RGB(244, 245,247) 20px;
+  background-color: RGB(244, 245,247);
+  outline: #d3d3d3 2px solid;
+  width: 1700px;
+}
