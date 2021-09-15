@@ -1,4 +1,4 @@
-h1 {font-size:blue;
+p {font-size:blue;
     font-family: ariel;
     font-color: green;
     }
